@@ -1,4 +1,4 @@
-/*css reset*/
+﻿/*css reset*/
 
 * {
     font-family: 微软雅黑, Microsoft YaHei, Helvetica, Tahoma, StSun, 宋体, SimSun, sans-serif!important;
@@ -71,7 +71,7 @@ body {
 }
 
 #header {
-    height: 100%;
+    height: 682px;
     /*background: url(http://wow.nos.netease.com/1/landing/wow/landing_20160831.jpg) center center no-repeat;
     background-size: cover;*/
     overflow: auto;
