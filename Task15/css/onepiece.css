@@ -501,6 +501,7 @@ a {
   border-radius: 10px;
   font-family: Arial, "Microsoft YaHei";
   outline:none; 
+  resize: none;
 }
 
 #contact .contact-btn {
